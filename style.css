@@ -1,9 +1,11 @@
-img{
-    width: 20%;
+.i{
+    width: 700px;
+    justify-content: center;
+    display: flex;
 }
 
 .body{
-    background-color: crimson;
+    background-color: lightcoral;
     text-align: center;
     font-size: 20;
 }
